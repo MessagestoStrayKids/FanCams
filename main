@@ -1,0 +1,218 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>Messages to Stray Kids My SKZ</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<meta name="color-scheme" content="light only" />
+		<meta name="description" content="Stray Kids" />
+		<meta property="og:site_name" content="Messages to Stray Kids My SKZ" />
+		<meta property="og:title" content="Messages to Stray Kids My SKZ" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="Stray Kids" />
+		<link href="https://fonts.googleapis.com/css2?display=swap&family=Bakbak+One:ital,wght@0,400;1,400" rel="stylesheet" type="text/css" />
+		<link rel="icon" type="image/png" href="assets/images/favicon.png" />
+		<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png" />
+		<link rel="stylesheet" href="assets/main.css" />
+	</head>
+	<body>
+		<!-- qweoqwupeoiqwuewqe --><style>
+		h1 {
+		text-align: center;
+		background: linear-gradient(90deg, rgba(142, 14, 29, 1) 5%, rgba(15, 15, 15,1) 49%, rgba(142, 14, 29, 1) 90%);
+		border: 5px solid #FFFFFF;
+		color: #FFFFFF;
+		font-family: 'Bakbak One';
+		font-style: Bold;
+		font-size: 56px;
+		}
+		h2 {
+		border: 4px solid rgba(254, 0, 0, 1);
+		border-image: linear-gradient(90deg, rgba(142, 14, 29, 1) 5%, rgba(15, 15, 15,1) 49%, rgba(142, 14, 29, 1) 90%) 1;
+		background: #000000;
+		color: #FFFFFF;
+		font-family: 'Bakbak One';
+		font-style: Bold;
+		font-size: 36px;
+		}
+		h4 {
+		border-bottom: 2px solid rgba(254, 0, 0, 1);
+		border-image: linear-gradient(135deg, rgba(142, 14, 29, 1) 5%, rgba(15, 15, 15,1) 49%, rgba(142, 14, 29, 1) 90%) 1;
+		background: #000000;
+		color: #FFFFFF;
+		font-family: 'Bakbak One';
+		font-style: Bold;
+		font-size: 26px;
+		text-align: left;
+		}
+		@media only screen and (max-width: 767px) {
+		h3 {
+		border-radius: 25px;
+		background: linear-gradient(90deg, rgba(142, 14, 29, 1) 5%, rgba(15, 15, 15,1) 49%, rgba(142, 14, 29, 1) 90%);
+		color: #FFFFFF;
+		font-family: 'Bakbak One';
+		padding: 10px;
+		font-size: 24px;
+		}}
+		@media only screen and (min-width: 767px) {
+		h3 {
+		border-radius: 25px;
+		background: linear-gradient(90deg, rgba(142, 14, 29, 1) 5%, rgba(15, 15, 15,1) 49%, rgba(142, 14, 29, 1) 90%);
+		color: #FFFFFF;
+		font-family: 'Bakbak One';
+		padding: 7px;
+		font-size: 24px;
+		display:inline;
+		}
+		}
+		table{
+		border-collapse: seperate;
+		border-spacing: 0 25px;
+		text-align: left;
+		margin-left: 20px;
+		width: auto;
+		}
+		table tr td{
+		padding-left: 20px;
+		}
+		li {
+		color: rgba(142, 14, 29, 1);
+		}
+		@font-face {
+		font-family: 'Bakbak One';
+		font-style: normal;
+		font-weight: 400;
+		font-display: swap;
+		src: url(https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cJkvthH.woff2) format('woff2');
+		unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+		}
+		/* latin-ext */
+		@font-face {
+		font-family: 'Bakbak One';
+		font-style: normal;
+		font-weight: 400;
+		font-display: swap;
+		src: url(https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-c1kvthH.woff2) format('woff2');
+		unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+		}
+		/* latin */
+		@font-face {
+		font-family: 'Bakbak One';
+		font-style: normal;
+		font-weight: 400;
+		font-display: swap;
+		src: url(https://fonts.gstatic.com/s/bakbakone/v8/zOL54pXAl6RI-p_ardnu-cNkvg.woff2) format('woff2');
+		unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+		}
+		p {
+		font-family: 'Bakbak One';
+		Color: rgba(255, 255, 255, 1);
+		text-align: left;
+		font-size: 18px;
+		}
+		mark {
+		background: linear-gradient(180deg, rgba(142, 14, 29, 1) 5%, rgba(84, 9, 18, 1) 90%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		font-family: 'Bakbak One';
+		font-size: 18px;
+		}
+		input[type='checkbox'] {
+		accent-color: rgba(142, 14, 29, 1);
+		transform : scale(1.5);
+		margin-right: 8%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+		}
+		</style>
+		
+		<script src="http://code.jquery.com/jquery.js"></script>
+		<!-- This JavaScript file is required to load the XpressDox interview as well as the code required to run it -->
+		
+		<script>
+		// Avoid scoping issues by encapsulating code inside anonymous function
+		(function() {
+		// variable to store our current state
+		var cbstate;
+		
+		// bind to the onload event
+		window.addEventListener('load', function() {
+		// Get the current state from localstorage
+		// State is stored as a JSON string
+		cbstate = JSON.parse(localStorage['CBState'] || '{}');
+		
+		// Loop through state array and restore checked
+		// state for matching elements
+		for(var i in cbstate) {
+		var el = document.querySelector('input[name="' + i + '"]');
+		if (el) el.checked = true;
+		}
+		
+		// Get all checkboxes that you want to monitor state for
+		var cb = document.getElementsByClassName('save-cb-state');
+		
+		// Loop through results and ...
+		for(var i = 0; i < cb.length; i++) {
+		
+		//bind click event handler
+		cb[i].addEventListener('click', function(evt) {
+		// If checkboxe is checked then save to state
+		if (this.checked) {
+		cbstate[this.name] = true;
+		}
+		
+		// Else remove from state
+		else if (cbstate[this.name]) {
+		delete cbstate[this.name];
+		}
+		
+		// Persist state
+		localStorage.CBState = JSON.stringify(cbstate);
+		});
+		}
+		});
+		})();
+		</script><!-- mnbnbxmbzxmncbzxc -->
+		<div id="wrapper">
+			<div id="main">
+				<div class="inner">
+					<ul id="icons02" class="icons">
+						<li>
+							<a class="n01" href="https://youtube.com/@MTSKStayZone">
+								<svg aria-labelledby="icon-title"><title id="icon-title">YouTube</title><use xlink:href="assets/icons.svg#youtube-alt"></use></svg>
+								<span class="label">YouTube</span>
+							</a>
+						</li><li>
+							<a class="n02" href="https://youtube.com/@MessagestoSKZ">
+								<svg aria-labelledby="icon-title"><title id="icon-title">YouTube</title><use xlink:href="assets/icons.svg#youtube-alt"></use></svg>
+								<span class="label">YouTube</span>
+							</a>
+						</li><li>
+							<a class="n03" href="#">
+								<svg aria-labelledby="icon-title"><title id="icon-title">Email</title><use xlink:href="assets/icons.svg#email"></use></svg>
+								<span class="label">Email</span>
+							</a>
+						</li><li>
+							<a class="n04" href="https://twitter.com/@messagestoSKZ">
+								<svg aria-labelledby="icon-title"><title id="icon-title">Twitter</title><use xlink:href="assets/icons.svg#twitter"></use></svg>
+								<span class="label">Twitter</span>
+							</a>
+						</li><li>
+							<a class="n05" href="https://ok.ru/profile/602590175294?utm_campaign=web_share&utm_content=profile">
+								<svg aria-labelledby="icon-title"><title id="icon-title">Одноклассники</title><use xlink:href="assets/icons.svg#odnoklassniki"></use></svg>
+								<span class="label">Одноклассники</span>
+							</a>
+						</li><li>
+							<a class="n06" href="https://discord.gg/n5bPWEEX">
+								<svg aria-labelledby="icon-title"><title id="icon-title">Discord</title><use xlink:href="assets/icons.svg#discord"></use></svg>
+								<span class="label">Discord</span>
+							</a>
+						</li>
+					</ul>
+					<div id="embed55">
+						<!-- qweoqwupeoiqwuewqe --><br><br><h3><a href="https://stayzone.messagestostraykids.com/" style="text-decoration:none">Home</a></h3>&nbsp;<h3><a href="https://myskz.messagestostraykids.com/" style="text-decoration:none">Content Timeline</a></h3>&nbsp;<h3><a href="https://stayzone.messagestostraykids.com/#content" style="text-decoration:none">Rare Content</a></h3>&nbsp;<h3><a href="https://stayzone.messagestostraykids.com/#bubble" style="text-decoration:none">Bubble</a></h3>&nbsp;<h3><a href="https://stayzone.messagestostraykids.com/#japan" style="text-decoration:none">Japanese Content</a></h3>&nbsp;<h3><a href="https://stayzone.messagestostraykids.com/#shows" style="text-decoration:none">Shows</a></h3>&nbsp;<h3><a href="https://stayzone.messagestostraykids.com/#photos" style="text-decoration:none">Photos</a></h3>&nbsp;<h3><a href="https://stayzone.messagestostraykids.com/#schedule" style="text-decoration:none">Future Schedules</a></h3>
+						<br>
+						<br>
+						<br>
+						<img src="https://i.ibb.co/Qc3VM9c/MTSK-LOGO-ATE-SM.png" alt="MTSK-LOGO-ATE-SM" border="0"><br><br><!-- mnbnbxmbzxmncbzxc -->
+					</div>
